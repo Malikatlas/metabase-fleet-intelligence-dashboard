@@ -7,8 +7,8 @@ A dynamic analytics dashboard built using open-source Metabase, integrating Bolt
 ## Overview and URL:
 
 This project demonstrates a real-world Business Intelligence implementation using a locally deployed Metabase instance connected to multiple operational data sources.
-Public Url: http://49.12.156.78:3005/public/dashboard/0431c708-9d3f-40fd-98b5-e7b5a2b0513a
-
+Public Url (With daily auto-Sync and Updates): http://49.12.156.78:3005/public/dashboard/0431c708-9d3f-40fd-98b5-e7b5a2b0513a
+Another Url : http://49.12.156.78:3005/public/dashboard/f926b38e-4f04-4c55-bc81-f47b3175b316
 The dashboard consolidates:
 
 - Bolt Fleet Integration data
